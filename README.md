@@ -1,2 +1,5 @@
 # ft_printf
-Implementation of project "ft_printf" from 42 Madrid Cursus.
+
+Mi propia implementación de la función "printf" de C, según esta guía:
+
+[https://42-cursus.gitbook.io/guide/rank-01/ft_printf]
