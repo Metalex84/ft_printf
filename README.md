@@ -1,5 +1,7 @@
 # 42 Cursus - FT_PRINTF
 
+![ft_printf Score](/ft_printf_score.png)
+
 ## Información del proyecto
 
 ### Resumen
